@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - The motivation behind creating this webpage is ultimately to understand how to create a webpage using full-stack.
 - I created this webpage to enhance my coding capabilities and to understand the 'how' behind creating a webpage.
@@ -24,21 +23,20 @@ N/A
 
 ## License
 
- [https://choosealicense.com/](https://choosealicense.com/).
+ Refer to GitHub 'license' section.
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
 
 ## Features
 
-If your project has a lot of features, list them here.
+
 
 ## How to Contribute
 

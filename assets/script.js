@@ -3,7 +3,7 @@ var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
 function listTopics() {
   for (var x = 0; x < topics.length; x++) {
-    consolwe.log(topics[x]);
+    console.log(topics[x]);
   }
 }
 
@@ -19,6 +19,10 @@ function selectTopic() {
   } else {
     console.log('Please try again!');
   }
+
+ for (var x = 0; x < topics.length; x++) {
+   console.log(topics[x]);
+ }
 }
 
 console.log('Here are the topics we learned through Prework:');
